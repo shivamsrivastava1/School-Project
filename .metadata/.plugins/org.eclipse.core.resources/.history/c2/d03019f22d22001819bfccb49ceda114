@@ -1,0 +1,16 @@
+
+public class App {
+
+	public static void main(String[] args) {
+		int value = 10;
+		boolean loop =4<5;
+		boolean loop1= 6<1;
+		boolean loop2=value<20;
+		System.out.println(loop);
+		System.out.println(loop1);
+		System.out.println(loop2);
+	
+
+	}
+
+}

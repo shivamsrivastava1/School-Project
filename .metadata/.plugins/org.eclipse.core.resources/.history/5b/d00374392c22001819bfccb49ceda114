@@ -1,0 +1,13 @@
+
+public class App {
+
+	public static void main(String[] args) {
+		boolean loop =4<5;
+		boolean loop1= 6<1;
+		System.out.println(loop);
+		System.out.println(loop1);
+	
+
+	}
+
+}

@@ -1,0 +1,25 @@
+package java1;
+
+public class App1 {
+
+	public static void main(String[] args) {
+		int myInt=7;
+		String text = "hello";
+		
+		String blank =" ";
+		
+		String name = "shivam";
+		String greeting = text+blank+name;
+		System.out.println(greeting);
+		System.out.println("hello"+" "+"shivam");
+		System.out.println("My integer is:"+myInt);
+		double myDouble=3.45;
+		
+		System.out.println("my numbmer is: "+ myDouble+ " ."
+				+ ");
+		
+	
+
+	}
+
+}
